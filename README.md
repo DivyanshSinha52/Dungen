@@ -1,4 +1,4 @@
 # Dungen
 First Git Repo
 <br>
-Author - Divyansh Sinha
+Author - Divyansh Sinha(Dungen)
